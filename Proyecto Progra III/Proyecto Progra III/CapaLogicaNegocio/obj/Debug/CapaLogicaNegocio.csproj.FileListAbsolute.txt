@@ -1,0 +1,38 @@
+C:\Users\Usuario\Desktop\07-08-2019\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Usuario\Desktop\07-08-2019\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Usuario\Desktop\07-08-2019\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\07-08-2019\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Usuario\Desktop\07-08-2019\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\07-08-2019\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\07-08-2019\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\07-08-2019\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\Usuario\Desktop\07-08-2019\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\Usuario\Desktop\15-08-2019 (Reporte en blanco)\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Usuario\Desktop\15-08-2019 (Reporte en blanco)\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Usuario\Desktop\15-08-2019 (Reporte en blanco)\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\15-08-2019 (Reporte en blanco)\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Usuario\Desktop\15-08-2019 (Reporte en blanco)\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\15-08-2019 (Reporte en blanco)\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\15-08-2019 (Reporte en blanco)\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\15-08-2019 (Reporte en blanco)\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\Usuario\Desktop\15-08-2019 (Reporte en blanco)\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\Usuario\Desktop\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Usuario\Desktop\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Usuario\Desktop\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Usuario\Desktop\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\Usuario\Desktop\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\EQUIPO\Desktop\GITHUB\Proyecto Programacion III C#\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\EQUIPO\Desktop\GITHUB\Proyecto Programacion III C#\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\EQUIPO\Desktop\GITHUB\Proyecto Programacion III C#\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\EQUIPO\Desktop\GITHUB\Proyecto Programacion III C#\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\EQUIPO\Desktop\GITHUB\Proyecto Programacion III C#\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\EQUIPO\Desktop\GITHUB\Proyecto Programacion III C#\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\EQUIPO\Desktop\GITHUB\Proyecto Programacion III C#\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojAssemblyReference.cache
+C:\Users\EQUIPO\Desktop\GITHUB\Proyecto Programacion III C#\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\GITHUB\Proyecto Programacion III C#\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\EQUIPO\Desktop\GITHUB\Proyecto Programacion III C#\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\EQUIPO\Desktop\GITHUB\Proyecto Programacion III C#\Proyecto Progra III\Proyecto Progra III\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb

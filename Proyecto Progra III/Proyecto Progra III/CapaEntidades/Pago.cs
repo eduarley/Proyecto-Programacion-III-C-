@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CapaEntidades
+{
+    public abstract class Pago
+    {
+        public abstract string Tipo { get; set; }
+        public double MontoPagar { get; set; }
+
+        
+
+
+
+    }
+}
